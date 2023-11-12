@@ -27,3 +27,5 @@ This HTML & CSS application is the code to deliver an accessible homepage.
 The homepage can be viewed here:
 
 https://johndck.github.io/week1Assignment/
+
+This project had one contributor: John Dick.
